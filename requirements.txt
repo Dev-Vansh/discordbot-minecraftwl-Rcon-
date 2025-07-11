@@ -1,0 +1,4 @@
+discord.py
+mcrcon
+requests
+python-dotenv
