@@ -19,8 +19,9 @@ A powerful and secure Discord bot that allows specific users to whitelist, unwhi
 pip install -r requirements.txt
 ```
 
-### 2. Edit Config in `bot.py`
+### 2. Edit Config in `.env.example`
 Update:
+- `rename as .env`
 - `DISCORD_TOKEN`
 - `RCON_HOST`, `RCON_PORT`, `RCON_PASSWORD`
 - `MONITOR_CHANNEL_ID`
