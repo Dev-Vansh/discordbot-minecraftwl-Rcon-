@@ -40,9 +40,11 @@ python bot.py
 ```
 
 ## Cmd 
-!<username>	 --------------->  Whitelist a Minecraft IGN	Limited / Unlimited Role
-!uwl <username> ------------>	Unwhitelist a Minecraft IGN	Unlimited Role
-!auto <cmd>	-------------> Run any Minecraft server command via RCON	Auto Role ( Its Like Console ) 
+```!<username>	 --------------->  Whitelist a Minecraft IGN	Limited / Unlimited Role     ```                                 
+
+```!uwl <username> ------------>	Unwhitelist a Minecraft IGN	Unlimited Role```
+
+``` !auto <cmd>	-------------> Run any Minecraft server command via RCON	Auto Role ( Its Like Console ) ```
 
 
 ## 🧾 License
