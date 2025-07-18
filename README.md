@@ -58,3 +58,8 @@ MIT License
 If U Have Any Problem U Can  Contact me on Discord - discord.gg/heavymc or u Can Send Dm on Vansh_1901
 If U Are Intrested In Our Custom Plugin By Sigma Studio U Can Also Check Out Us 
 
+
+
+
+This Is Open SOurce Project 
+https://github.com/Dev-Vansh/discordbot-minecraftwl-Rcon-
